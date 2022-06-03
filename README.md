@@ -1,6 +1,8 @@
 # MaquinaTuring
 
-UEA: Teo ría de Au tóma tas y Lengua jes
+UEA: Teoría de Autómatas y Lenguajes.
+
+Proyecto Final.
 
 MAQUINA DE TURING.
 
